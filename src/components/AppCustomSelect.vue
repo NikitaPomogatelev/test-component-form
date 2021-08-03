@@ -8,7 +8,7 @@
     >
       <input
         type="text"
-        class="input select__button"
+        class="input select__input"
         :value="selected"
         placeholder="Язык"
       />
